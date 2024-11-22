@@ -1,0 +1,35 @@
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Top Store - Mordedor Canino</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+</head>
+
+<body>
+    <section class="section">
+    <div class="container">
+    <h1 class="title">Pet Top Store - Mordedor canino</h1>
+    <div class="columns is-vcentered">
+                
+    <div class="column is-one-third">
+    <img src="https://www.distribuidorapetshop.com.br/img/products/brinquedo-mordedor-para-cachorro---galinha-38cm-22535_1_1200.jpg"alt="Mordedor canino">
+    </div>
+               
+    <div class="column">
+    <h2 class="title is-4">Mordedor canino</h2>
+    <p>Um mordedor de galinha amarela bem bonito e legal para seu pet</p>
+    <p class="has-text-weight-bold is-size-5">R$ 26,99</p>
+
+    <div class="buttons">
+    <button class="button is-success">Comprar</button>
+    <button class="button is-link">Adicionar ao carrinho</button>
+    </div>
+        </div>
+            </div>
+                </div>
+    </section>
+</body>
+
+</html>
